@@ -40,3 +40,6 @@ switch (accion) {
         console.log();
         console.log('No entiendo eso');
 }
+
+
+console.log('funcionaaaa!!!')
